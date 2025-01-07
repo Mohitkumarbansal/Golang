@@ -14,7 +14,7 @@ func main() {
 
 	// 2nd scenerio
 
-	var array2 = [4]string{"mohit", "rohit"}
+	var array2 = [4]string{}
 	fmt.Println("array2 printing => ", array2)
 	fmt.Println("*** length of array2 => ", len(array2))
 	fmt.Printf("*** Type of array2 => %T\n", array2)
