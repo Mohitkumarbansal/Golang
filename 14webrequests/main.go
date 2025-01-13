@@ -6,7 +6,7 @@ import (
 	"net/http"
 )
 
-const url = "https://www.amazon.com/"
+const url string = "https://www.amazon.com/"
 
 func main() {
 	fmt.Println("*** Learning webrequests ****")
